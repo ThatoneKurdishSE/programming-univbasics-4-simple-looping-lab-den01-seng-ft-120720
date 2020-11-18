@@ -26,5 +26,6 @@ def output_array(array)
   count+=1
 end
 end
-def return_string_array(elements)
+def return_string_array(array_of_elements)
+  
   
