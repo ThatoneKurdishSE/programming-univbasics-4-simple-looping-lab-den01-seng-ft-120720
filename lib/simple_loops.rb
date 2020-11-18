@@ -27,5 +27,7 @@ def output_array(array)
 end
 end
 def return_string_array(array_of_elements)
-  
+  count=0
+  while count<array_of_elements.length do
+    
   
