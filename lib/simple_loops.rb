@@ -26,12 +26,3 @@ def output_array(array)
   count+=1
 end
 end
-def return_string_array(array1, array2)
-  array=[5,4,3,2,1]
-  new_array=[]
-  counter=0
-  while counter<array.length do 
-  array[counter].to_s
-end
-return new_array
-end
